@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62e88c39-5698-4c1c-b181-18f2efe83805" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/C1220I1-MyCV/khaicv.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C1220I1-MyCV" beforeDir="false" afterPath="$PROJECT_DIR$/C1220I1-MyCV" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cvcanhan" beforeDir="false" afterPath="$PROJECT_DIR$/cvcanhan" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cvcanhan/cvcanhan.html" beforeDir="false" afterPath="$PROJECT_DIR$/cvcanhan/cvkhai.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/cvcanhan" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/C1220I1-MyCV" />
   </component>
   <component name="ProjectId" id="1maT0ddb21OFep2d4Caceyo22Fy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -19,9 +22,11 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -42,6 +47,7 @@
       <workItem from="1609730480506" duration="599000" />
       <workItem from="1609749012212" duration="6837000" />
       <workItem from="1609812280932" duration="1359000" />
+      <workItem from="1609820609663" duration="303000" />
     </task>
     <servers />
   </component>
